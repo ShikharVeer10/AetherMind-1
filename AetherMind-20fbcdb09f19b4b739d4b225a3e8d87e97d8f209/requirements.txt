@@ -1,0 +1,10 @@
+pydantic
+python-pptx
+pydantic-ai
+google-genai
+requests
+torch
+transformers
+Pillow
+pymupdf
+easyocr
